@@ -1,0 +1,11 @@
+.mainblock,.list-area{width:600px;margin:0 auto}
+.field{margin-top:20px}
+.field {font-size:14px;line-height:20px;color:#000}
+.field  span{display:inline-block;width:60px}
+.input_tx{border:1px solid #ccc;padding:2px 5px}
+.btn_tijiao{padding:2px 5px;background:#ccc;border:1px solid #333;cursor:default}
+.list-area h3{font-size:18px;line-height:24px;margin-top:20px}
+.list-area ul li{margin:20px 0 0 20px;position:relative}
+.list-area ul h5{font-size:16px;line-height:20px;color:#666}
+.list-area ul p{font-size:14px;line-height:18px;color:#333;margin-top:10px}
+.btn_del{position:absolute;top:0px;right:0;border:1px solid blue;color:blue;font-size:14px;line-height:20px;padding:0 3px}
